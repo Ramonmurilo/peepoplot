@@ -4,8 +4,6 @@ from typing import List
 from typing import Any
 import matplotlib
 import matplotlib.pyplot as plt
-import pandas as pd
-from datetime import timedelta
 from cartopy import crs as ccrs
 from cartopy.feature import BORDERS
 
