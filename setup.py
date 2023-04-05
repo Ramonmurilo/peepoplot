@@ -7,8 +7,8 @@ setup(
     license='MIT',
     author="Ramon Murilo",
     author_email='ramonmurilo@id.uff.br',
-    packages=find_packages('peepoplot'),
-    package_dir={'': 'peepoplot'},
+    packages=find_packages('src'),
+    package_dir={'': 'src'},
     url='https://github.com/Ramonmurilo/peepoplot',
     keywords='peepoplot',
     install_requires=[
