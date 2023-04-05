@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='peepoplot',
-    version='0.1',
+    version='0.2',
     license='MIT',
     author="Ramon Murilo",
     author_email='ramonmurilo@id.uff.br',
